@@ -49,6 +49,10 @@ public class program {
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
+        int score = 0;
+        int difficultyLevel = 1;
+        int correct = 0;
+        int wrong = 0;
 
     }
 
